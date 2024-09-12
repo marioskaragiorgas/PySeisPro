@@ -16,7 +16,7 @@ This application is a GUI tool for processing and interpreting seismic data from
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo-url
+git clone https://github.com/marioskaragiorgas/PySeisPro.git
 cd PySeisPro
 ```
 
