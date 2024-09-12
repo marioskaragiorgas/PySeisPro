@@ -1,0 +1,9 @@
+PyQt5
+segyio
+matplotlib
+numpy
+scipy
+scikit-image
+pandas
+obspy
+PyWavelets
