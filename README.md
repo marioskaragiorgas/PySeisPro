@@ -44,7 +44,7 @@ PySeisPro depends on the following Python libraries:
 
 8.Obspy
 
-9.Pywt
+9.PyWavelets
 
 **Custom modules**: Data_handling, Filters, Mute, Gains, Plots, Trace_analysis, Deconvolution, Seismic_Interpretation
 
