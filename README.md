@@ -38,7 +38,7 @@ PySeisPro depends on the following Python libraries:
 
 5.Scipy
 
-6.Skimage
+6.Scikit-image
 
 7.Pandas
 
